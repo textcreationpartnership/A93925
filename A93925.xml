@@ -1,0 +1,617 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The church, the proper subject of the new covenant. Delivered first in three sermons at Rochester Afterwards contracted into two, and delivered againe at Gravesend. Together with a covenant to walke with God. By Will: Sandbrooke, LL:B:Ox. and Minister of Margarets Rochester.</title>
+            <author>Sandbrooke, William, d. 1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93925</idno>
+            <idno type="STC">Wing S571A</idno>
+            <idno type="STC">ESTC R229760</idno>
+            <idno type="EEBO-CITATION">99899300</idno>
+            <idno type="PROQUEST">99899300</idno>
+            <idno type="VID">152971</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93925)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152971)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2337:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The church, the proper subject of the new covenant. Delivered first in three sermons at Rochester Afterwards contracted into two, and delivered againe at Gravesend. Together with a covenant to walke with God. By Will: Sandbrooke, LL:B:Ox. and Minister of Margarets Rochester.</title>
+                  <author>Sandbrooke, William, d. 1658.</author>
+               </titleStmt>
+               <extent>[14], 48, 45-50 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by W. Wilson for Philemon Stephens,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text is continuous despite pagination.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Covenant theology --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152971:1"/>
+            <pb facs="tcp:152971:1"/>
+            <p>THE CHVRCH, The proper ſubject of the new COVENANT.</p>
+            <p>Delivered firſt in Three Ser<g ref="char:EOLhyphen"/>mons at <hi>Rocheſter.</hi>
+            </p>
+            <p>Afterwards contracted into two, and delivered againe at <hi>Graveſend.</hi>
+            </p>
+            <p>Together with a Covenant to walke with God.</p>
+            <p>By WILL: SANDBROOKE, <hi>LL: B: Ox.</hi> and Miniſter of <hi>Margrets Rocheſter.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. Wilſon</hi> for <hi>Philemon Stephens.</hi> 1646.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:152971:2"/>
+            <pb facs="tcp:152971:2"/>
+            <head>TO THE HONORABLE Committee of the County of <hi>K<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt.</hi>
+            </head>
+            <opener>
+               <salute>Honored</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">G</seg>Ive mee leave to beſpeake you in a word of an Apologetick preface for this my in<g ref="char:EOLhyphen"/>truſio<g ref="char:cmbAbbrStroke">̄</g> upon your good<g ref="char:EOLhyphen"/>neſſe. After ſixteene yeares reſidence in <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> and many yeares
+<pb facs="tcp:152971:3"/>forraigne travells, upon my returne in theſe tu<g ref="char:EOLhyphen"/>multuous times not be<g ref="char:EOLhyphen"/>ing able to enjoy my owne charge in <hi>Oxford</hi> I betooke my ſelfe to ſea imployment under the Right Honorable the Earle of <hi>VVarwick,</hi> and after two voyages my lot for reſidence fell into <hi>Rocheſter,</hi> and cal<g ref="char:EOLhyphen"/>led to Saint <hi>Margarets,</hi> have there two yeares exerciſed my miniſtery comfortably. Here af<g ref="char:EOLhyphen"/>ter my diſpatch of the
+<pb facs="tcp:152971:3"/>whole doctrine of the new Covenant, I let fall ſome concluſions in ſatisfaction to doubts now agitated in the world, whereof the firſt was the ſubject of this new Covenant, to wit, the Church, which unexpectedly were not ſo cleare to ſome as I intended and wiſht for. After I con<g ref="char:EOLhyphen"/>tracted their largeneſs into this modell, and delivered them in Graveſ-end. Excepti<g ref="char:EOLhyphen"/>ons
+<pb facs="tcp:152971:4"/>were taken by ſuch as heard them not de<g ref="char:EOLhyphen"/>livered, but by report, and the Author there<g ref="char:EOLhyphen"/>of defamed, with what bitterneſſe let others that heard it judge. I was therefore required for my owne vindica<g ref="char:EOLhyphen"/>tion, and ſuch noble Friends as had caſt a gracious aſpect upon mee to publiſh them, which here I now hum<g ref="char:EOLhyphen"/>bly preſent to your cen<g ref="char:EOLhyphen"/>ſure and patronage, who now (bleſſed bee
+<pb facs="tcp:152971:4"/>God) are the happy in<g ref="char:EOLhyphen"/>ſtruments of the peace of the County. I have not to my beſt memo<g ref="char:EOLhyphen"/>ry omitted nor added a materiall paſſage or ſentence, except the examination of the termes in Scripture ſig<g ref="char:EOLhyphen"/>nifying a Church as <hi>V. T.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which the Septuagint for the moſt part ren<g ref="char:EOLhyphen"/>der by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> though ſometimes the various readings of <hi>Aquila, Sy<g ref="char:EOLhyphen"/>machus,</hi> and <hi>Theodorus</hi>
+               <pb facs="tcp:152971:5"/>gives that by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. The <hi>N. T.</hi> uſe ſtill <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which the Syriack tran<g ref="char:EOLhyphen"/>ſlation expreſſe by the former word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> familiar alſo in the very ſame ſenſe with all the Orientals, ſo that I inferred as a generall iſſue from the Etymon of the word,
+<q>A Church was a collected body called together in the buſineſſe of the Lord.</q>
+            </p>
+            <p>This is the ſubſtance
+<pb facs="tcp:152971:5"/>of all was omitted from the firſt delivery, which I have not inſerted in this Copy, becauſe I did beleeve the excep<g ref="char:EOLhyphen"/>ter would not trou<g ref="char:EOLhyphen"/>ble himſelfe with any examination of the cry<g ref="char:EOLhyphen"/>ticiſme. My ſpirit I confeſſe hath ever been averſe to publiſh or to have beene taken no<g ref="char:EOLhyphen"/>tice of this way, I am too conſcious of my owne weakeneſſe and inſufficiencies to ſeek to make a noyſe: my
+<pb facs="tcp:152971:6"/>inclination to obſcurity and retiredneſſe is wel knowne, and a meane condition (if a ſetled one) in privacy to ap<g ref="char:EOLhyphen"/>ply my thoughts to ſtu<g ref="char:EOLhyphen"/>dy hath beene always my ſtrongeſt intenti<g ref="char:EOLhyphen"/>ons. Other things of greater importance (in literature I meane) I have prepared, which did providence ſee good to give me a ſetled con<g ref="char:EOLhyphen"/>dition (wherein I might compoſe my thoughts to a ſetled ſixtneſſe,
+<pb facs="tcp:152971:6"/>and center my ſelfe in ſome reſt to follow my ſtudy, the greateſt out<g ref="char:EOLhyphen"/>ward mercy I long for and value in this life) I ſhould humbly begge your patronage and protection. In the in<g ref="char:EOLhyphen"/>terim untill Divine pro<g ref="char:EOLhyphen"/>vidence ſhall effect ſo great mercy to mee: giue mee leave to beg your patronage &amp; pro<g ref="char:EOLhyphen"/>tection of this rude draught (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) of the nature of a Church) and let mee ſubſcribe
+<pb facs="tcp:152971:7"/>my ſelfe to bee ever really found,</p>
+            <closer>
+               <signed>Your moſt humble and faithful ſervant in the Lord,
+Will: Sandbrooke.</signed>
+               <dateline>From my ſtudy in <hi>Rocheſter,</hi> 
+                  <date>
+                     <hi>Nov.</hi> 20. 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:152971:7"/>
+            <head>To the Right Worſhip<g ref="char:EOLhyphen"/>ſhipfull the Major, Ju<g ref="char:EOLhyphen"/>rats, and Inhabitants of <hi>Graveſ-end.</hi>
+            </head>
+            <opener>
+               <salute>Brethren,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou may remember I was engaged to your reverend Paſtor for an exchange upon neceſſary occaſions: theſe concluſions I then delivered for ſub<g ref="char:EOLhyphen"/>ſtance to you, &amp; I know not a materiall word varied. You know how it was calum<g ref="char:EOLhyphen"/>nized, and with what bit<g ref="char:EOLhyphen"/>terneſſe
+<pb facs="tcp:152971:8"/>interpreted by him who heard it not, upon what grounds hee proceeded, I leave it to his owne ſerious thoughts. As they are and were I commend them to you, to judge whether the things are cenſurable or no. I muſt acknowledge your patience and candid acceptance of them then, and engage my ſelfe now and ever,</p>
+            <closer>
+               <signed>Your ſervant in the work of the Lord, Will: Sandbrooke.</signed>
+               <dateline>Rocheſter, <date>
+                     <hi>Novemb. 20. 1646.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:152971:8"/>
+            <head>A Breife Sum<g ref="char:EOLhyphen"/>mary of Three Ser<g ref="char:EOLhyphen"/>mons preached at St. <hi>Margarets</hi> Ro<g ref="char:EOLhyphen"/>CHESTER.</head>
+            <div type="part">
+               <head>EPHES. 1.22, 23.</head>
+               <p>
+                  <seg rend="decorInit">H</seg>Aving you know at ſeverall times declared unto you the whole doctrine of the new covenant, my next buſineſſe I ac<g ref="char:EOLhyphen"/>quainted you ſhould be the examination of 3. grand <hi>Quaeries:</hi> And theſe I digeſted into this
+<pb n="2" facs="tcp:152971:9"/>order thus.</p>
+               <p n="1">1. What is the proper adequate and formall ſubject of all this great mercy of the Covenant.</p>
+               <p>The <hi>Church.</hi>
+               </p>
+               <p n="2">2. What perſons are capeable to come within this condition of the Church.</p>
+               <list>
+                  <item>1. Beleevers inter<g ref="char:EOLhyphen"/>nally called.</item>
+                  <item>2. Infants by the outward ſeale of Baptiſme.</item>
+               </list>
+               <p n="3">3. What law or rule the Church is regulated and walkes by, whether the <hi>Law</hi> or the <hi>Goſpel,</hi> or both.</p>
+               <p>Theſe things beeing
+<pb n="3" facs="tcp:152971:9"/>diſpatcht I ſhall pro<g ref="char:EOLhyphen"/>ceede to ſatisfie two doubts to wit.</p>
+               <p n="1">1. How the converſa<g ref="char:EOLhyphen"/>tion of a beleever, or a member of a Church may be ſteered to an ho<g ref="char:EOLhyphen"/>ly evenneſſe.</p>
+               <p n="2">2. What are the mani<g ref="char:EOLhyphen"/>fold impediments and hindrances from</p>
+               <list>
+                  <item>1. Our owne deceit<g ref="char:EOLhyphen"/>full ſpirits.</item>
+                  <item>2. The ſtratagems of hell.</item>
+               </list>
+               <div n="1" type="section">
+                  <head>SECT. I.</head>
+                  <p>THe firſt grand Quae<g ref="char:EOLhyphen"/>rie I began with to wit, <hi>The nature of a Church.</hi>
+                  </p>
+                  <p>
+                     <pb n="4" facs="tcp:152971:10"/>
+Wherein becauſe I found the buſineſſe in theſe tumultuous dayes ſorely perplext with contentions and diffi<g ref="char:EOLhyphen"/>culties on the contrary parties, I proceeded in a middle courſe if it were poſſible to take off the violence of both.</p>
+                  <p n="1">1. The one party run<g ref="char:EOLhyphen"/>ning violently againſt the other, condemning its adverſary of forma<g ref="char:EOLhyphen"/>lity, ſuperſtition, and al<g ref="char:EOLhyphen"/>moſt idolatry in tying up their devotions to ſaying of prayers, ſet formes and places, run<g ref="char:EOLhyphen"/>ning circle of ſtinted du<g ref="char:EOLhyphen"/>ties without life and
+<pb n="5" facs="tcp:152971:10"/>power, and without ex<g ref="char:EOLhyphen"/>pectation of any ſuch things from Chriſt, to<g ref="char:EOLhyphen"/>gether with a mixture of prophane and godly. A ſpeckled Bird.</p>
+                  <p n="2">2. The other party running as ſtrongly in a violent contrary chan<g ref="char:EOLhyphen"/>nell condemning the o<g ref="char:EOLhyphen"/>ther for ſchiſme, hereſes, ſedition, faction, novel<g ref="char:EOLhyphen"/>ty, ſeperation and divi<g ref="char:EOLhyphen"/>ſion, makeing breaches and fomenting diſcords, opening a way to the unſetling of the peace and unitie of the Church.</p>
+                  <p>In this ſo ſad a con<g ref="char:EOLhyphen"/>dition, I ſteared a courſe
+<pb n="6" facs="tcp:152971:11"/>as neare as I could: be<g ref="char:EOLhyphen"/>twixt theſe two deſpe<g ref="char:EOLhyphen"/>rate rocke, and yet unexpectedly ſtruck upon each till, I had almoſt ſplitt againe.</p>
+                  <list>
+                     <item>1. The one charging me with too much liberty, given to ſchiſme &amp; private conventicles.</item>
+                     <item>2. The other accu<g ref="char:EOLhyphen"/>ſing me with too much binding up and ſtreigthning them in the Privi<g ref="char:EOLhyphen"/>ledges of Believers granted to the Church by Chriſt himſelfe.</item>
+                  </list>
+                  <p>In this unexpected
+<pb n="7" facs="tcp:152971:11"/>exigent, finding a ſtorme comming, (and we have tumults enough alrea<g ref="char:EOLhyphen"/>dy,) though I was warn<g ref="char:EOLhyphen"/>ed by a faithfull freind, that it would not be ſeaſonable, my impro<g ref="char:EOLhyphen"/>vidence left me in a ſnare.</p>
+                  <p>I muſt acquaint you my reſolution is, to deſiſt from the proſe<g ref="char:EOLhyphen"/>cution, untill the wiſe<g ref="char:EOLhyphen"/>dome of the State ſhall ſet up a way which is Vniforme, and then I hope I may proſecute without diſturbance.</p>
+                  <p>In the interim be<g ref="char:EOLhyphen"/>cauſe what hath beene delivered is ſnuffed at,
+<pb n="8" facs="tcp:152971:12"/>by ſome whom I ſcarce believe underſtood (if heard) it, I ſhall there<g ref="char:EOLhyphen"/>fore acquaint you with two things.</p>
+                  <p n="1">1. <hi>The concluſions pro<g ref="char:EOLhyphen"/>ſecuted already in this buſineſſe.</hi>
+                  </p>
+                  <p n="2">2. <hi>The concluſions re<g ref="char:EOLhyphen"/>maining yet behind in the nature of a Church which I will only name.</hi>
+                  </p>
+                  <p>Theſe I will lay down as principles, which muſt be as a firme baſis to all deductive conclu<g ref="char:EOLhyphen"/>ſions in the buſineſſe of a Church, ſo that</p>
+                  <p n="1">1. I ſhall adhere to them as of eternall ve<g ref="char:EOLhyphen"/>rity.</p>
+                  <p n="2">
+                     <pb n="9" facs="tcp:152971:12"/>
+2. I ſhall yet willing<g ref="char:EOLhyphen"/>ly ſubmitt to a full con<g ref="char:EOLhyphen"/>viction of any error de<g ref="char:EOLhyphen"/>duceable from them, if cleared to me, and hum<g ref="char:EOLhyphen"/>bly correct it.</p>
+                  <p>Theſe things being ſuppoſed by way of Ap<g ref="char:EOLhyphen"/>pology, I come now to my buſineſſe.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>EPHES. 1.22, 23.</head>
+               <p>And hath put all things under his feet: and gave him to bee the head over all things to the Church.</p>
+               <p>Which is his body, the fulneſſe of him that filleth all in all.</p>
+               <p>
+                  <pb n="10" facs="tcp:152971:13"/>
+AFter a ſhort Analy<g ref="char:EOLhyphen"/>citall reſolution of the body of the Text, I inferred divers conclu<g ref="char:EOLhyphen"/>ſions, whereof the firſt was;</p>
+               <p>
+                  <hi>God the Father hath given to Chriſt by ſpeci<g ref="char:EOLhyphen"/>all donation,
+<note place="margin">Theſ. 1.</note> priviledge and grants the power, in<g ref="char:EOLhyphen"/>tereſt, and propriety, and in ſucceſsion of time, the Actuall poſſeſſion of a Church.</hi>
+               </p>
+               <p>This propoſition I laid downe as leaving the reſt to the expoſitory way for forenoones in my exerciſe, onely to cleare it I laid downe ſome concluoſins which
+<pb n="11" facs="tcp:152971:13"/>were the ſame in ſub<g ref="char:EOLhyphen"/>ſtance, and run paralell to this in this forme.</p>
+               <p n="1">1.
+<note place="margin">Iſa. 32.1. Pſal. 2.6.</note> 
+                  <hi>God the Father hath inveſted Chriſt in the propriety and poſſeſſion of a Kingdome.</hi>
+               </p>
+               <p n="2">2.
+<note place="margin">Rom. 8.2.</note> 
+                  <hi>This kingdome in order to its ſubjects was endowed with</hi> 3. <hi>grand priviledges.</hi>
+               </p>
+               <p n="1">1.
+<note place="margin">Rom. 8.12.</note> 
+                  <hi>Exemption from the curſe of any Law.</hi>
+               </p>
+               <p n="2">2. <hi>From the Tyranny of any power to enthrall or engage them to obedi<g ref="char:EOLhyphen"/>ence except of Chriſt.</hi>
+               </p>
+               <p n="3">3.
+<note place="margin">Col. 2.21.</note> 
+                  <hi>From obſervation of any ordinances in point of abſolute ſubjection, but what himſelfe hath inſti<g ref="char:EOLhyphen"/>tuted
+<pb n="12" facs="tcp:152971:14"/>to them.</hi>
+               </p>
+               <p>Whence I called in to aide one cleare and con<g ref="char:EOLhyphen"/>feſſed concluſion.</p>
+               <p>
+                  <hi>The Kingdome of Chriſt and the Church of Chriſt are in ſubſtance the ſame thing.</hi>
+               </p>
+               <p>So that in iſſue, if Chriſt hath beene en<g ref="char:EOLhyphen"/>throned and eſtabliſhed in a kingdome, <hi>ergo</hi> al<g ref="char:EOLhyphen"/>ſo in a Church. But Chriſt hath beene en<g ref="char:EOLhyphen"/>throned and eſtabliſhed in a Kingdome, by the concluſions, <hi>ergo</hi> the ſequell is eaſie from the laſt concluſion thus, the Kingdome of Chriſt and his Church are the ſame
+<pb n="13" facs="tcp:152971:14"/>in ſubſtance. <hi>ergo.</hi> If Chriſt have a Kingdom he muſt have a Church alſo.</p>
+               <p>The maine quaeriethen to be examined thus.</p>
+               <p>
+                  <hi>What this Church of Chriſt is.</hi>
+               </p>
+               <p>After examination of the Termes, incident to this buſineſſe in the old and new Teſta<g ref="char:EOLhyphen"/>ment, I concluded.</p>
+               <p>
+                  <hi>A Church or the king<g ref="char:EOLhyphen"/>dom of Chriſt is a combi<g ref="char:EOLhyphen"/>nation, or confaederacy of faithfull perſons, meet<g ref="char:EOLhyphen"/>ing together in a joynt conſent to walke with Chriſt, and to enjoy com<g ref="char:EOLhyphen"/>munion with him; and
+<pb n="14" facs="tcp:152971:15"/>amongſt themſelves in all his ordinances.</hi>
+                  <note place="margin">I cannot ſee but this diſcripti<g ref="char:EOLhyphen"/>on of a Church agreeth with the Nationall Provinciall, &amp; Parochiall Church of <hi>England</hi> unleſſe we ſuppoſe intended and ſtudied hypo<g ref="char:EOLhyphen"/>criſie in receiving the Goſpell.</note>
+               </p>
+               <p>In this I obſerved, theſe diſtinct conclu<g ref="char:EOLhyphen"/>ſions, fully to cleare the buſineſſe.</p>
+               <p>
+                  <hi>The members of this combination are faith<g ref="char:EOLhyphen"/>full perſons,
+<note place="margin">
+                        <hi>Concl.</hi> 1.</note> or actuall beleevers by profeſſion.</hi>
+               </p>
+               <p>This was made cleare in reaſon thus, Chriſt being a living head, all that come to him are al<g ref="char:EOLhyphen"/>ſo quickned, for the cauſe being put the ef<g ref="char:EOLhyphen"/>fect muſt follow, and
+<pb n="15" facs="tcp:152971:15"/>we live by faith in Chriſt <hi>ergo.</hi>
+               </p>
+               <p>
+                  <hi>The members of a Church are living mem<g ref="char:EOLhyphen"/>bers or beleevers.</hi>
+               </p>
+               <p>Thus reaſon gave at<g ref="char:EOLhyphen"/>teſtation fully &amp; clearly,
+<note place="margin">19. Art of the church of Eng. <hi>Agni.</hi> 3. <hi>q.</hi> 8. <hi>Ar.</hi> 3. <hi>ad</hi> 3. <hi>Bell. to</hi> 2 <hi>c.</hi> 2. <hi>p.</hi> 271.</note> ſo Scripture alſo, <hi>Eſay.</hi> 26.2.6. <hi>Acts.</hi> 2.40.41.</p>
+               <p>This firſt concluſion made good, the 2<hi rend="sup">o</hi>. is.</p>
+               <p n="2">2. <hi>Theſe beleeving per<g ref="char:EOLhyphen"/>ſons joyne together in a mutuall combination or joynt conſent to bee a Church.</hi>
+               </p>
+               <p>The reaſon is from proportion, a common wealth joynes toge<g ref="char:EOLhyphen"/>ther by conſent under one head, to make a bo<g ref="char:EOLhyphen"/>dy
+<pb n="16" facs="tcp:152971:16"/>politique; and the members of a naturall body, by one Spirit of animation conſtitutes the whole. But the Church is in proportion a naturall and politique bodie.
+<note place="margin">
+                     <hi>Bell. ibid. Act.</hi> 19.</note> 
+                  <hi>Ergo. Iere.</hi> 50.4. <hi>Acts.</hi> 11.21.22.</p>
+               <p>Thus this 2. conclu<g ref="char:EOLhyphen"/>ſion cleared, the 3<hi rend="sup">d</hi>. was.</p>
+               <p n="3">3. <hi>This voluntary and joynt combination of Be<g ref="char:EOLhyphen"/>leevers, is to give them<g ref="char:EOLhyphen"/>ſelves up wholly to walke with Chriſt.</hi>
+               </p>
+               <p>The reaſon I aſſign<g ref="char:EOLhyphen"/>ed was, becauſe in this combination they joyn<g ref="char:EOLhyphen"/>ed themſelves wholly to Chriſt, and gave
+<pb n="17" facs="tcp:152971:16"/>themſelves totally to him. <hi>Ergo.</hi> Live &amp; walke with him. <hi>Iere.</hi> 50.5. <hi>Acts.</hi> 2, 42.</p>
+               <p>And here the ſtarting of one doubt hath cauſ<g ref="char:EOLhyphen"/>ed all this duſt, and made ſuch a miſcon<g ref="char:EOLhyphen"/>ſtrued interpretation of things.</p>
+               <p>
+                  <hi>Is this combination by joynt conſent,
+<note place="margin">Queſt.</note> ſo ne<g ref="char:EOLhyphen"/>ceſſary to a Church, that it is not ſufficient for e<g ref="char:EOLhyphen"/>very particular beleeuer to give himſelfe up to Chriſt to walke with him, but a ſociety muſt joyne in it?</hi>
+               </p>
+               <p>Becauſe herein the buſineſſe did pinch, give
+<pb n="18" facs="tcp:152971:17"/>me leave to give you a a breife account of what propoſitions I laid down in the ſame words, and then Ile to the reſt.</p>
+               <p n="1">1. <hi>Every beleever af<g ref="char:EOLhyphen"/>ter calling, is engaged to bring over his Spirit to an univerſall reſolution, and anſwerable execution of walking with Chriſt.</hi>
+               </p>
+               <p>The reaſon was gi<g ref="char:EOLhyphen"/>ven, becauſe every member is, or ought to be, at the whole diſpo<g ref="char:EOLhyphen"/>ſition of the head, and ſubordinat to it. But &amp;c. <hi>Ergo.</hi> 1 <hi>Cor.</hi> 6.20. <hi>Pſal.</hi> 119.106. This firſt par<g ref="char:EOLhyphen"/>ticular concluſion, the ſecond was.</p>
+               <p n="2">
+                  <pb n="19" facs="tcp:152971:17"/>
+2. <hi>This particular reſignation of any belee<g ref="char:EOLhyphen"/>ver thus to Chriſt makes him an actuall member of the Catholike Church of Chriſt which is onely one.</hi>
+               </p>
+               <p>The reaſon given in this caſe, it made them of the bodie of Chriſt, as by a ſpeciall act of faith. <hi>Rom.</hi> 12.5. 1. <hi>Cor.</hi> 10.16. 1. <hi>Cor.</hi> 10.12.17.</p>
+               <p>The ſecond particular propoſition thus done.</p>
+               <p n="3">3. <hi>There followes after this an actuall vnion and viſible combination of the ſame perſon with other members, which collect<g ref="char:EOLhyphen"/>ed bodie make up a viſi<g ref="char:EOLhyphen"/>ble ſociety of beleevers.</hi>
+               </p>
+               <p>
+                  <pb n="20" facs="tcp:152971:18"/>
+This is properly joyn<g ref="char:EOLhyphen"/>ing to a particular viſi<g ref="char:EOLhyphen"/>ble Church, and the rea<g ref="char:EOLhyphen"/>ſon is from the very conſtruction, of the Termes, and the ma<g ref="char:EOLhyphen"/>nifold places of Scrip<g ref="char:EOLhyphen"/>ture. <hi>Acts.</hi> 9.28. <hi>&amp;</hi> 5.13. <hi>&amp;</hi> 20.17.</p>
+               <p>And this is the ſame with our pariſhes, or parochiall congregati<g ref="char:EOLhyphen"/>ons and combinations, to worſhip Chriſt and to walke with him. <hi>Art.</hi> 19. <hi>Prop.</hi> 2. Preface to the <hi>Catechiſme</hi> in the Common-Prayer. <hi>B.</hi>
+               </p>
+               <p>So that hence it will be ſafe I ſuppoſe, to in<g ref="char:EOLhyphen"/>ferr.</p>
+               <p n="1">
+                  <pb n="21" facs="tcp:152971:18"/>
+1. <hi>Such a collected bo<g ref="char:EOLhyphen"/>dy or congregation, ſo vnited is a particular vi<g ref="char:EOLhyphen"/>ſible Church.</hi>
+               </p>
+               <p>And from thence al<g ref="char:EOLhyphen"/>ſo I inferred as a ſecond concluſion neceſſary to the buſineſſe.</p>
+               <p n="2">2.
+<note place="margin">1 Cor. 1.2</note> 
+                  <hi>Though the ca<g ref="char:EOLhyphen"/>tholike Church of Chriſt be but one, yet there are divers particular Chur<g ref="char:EOLhyphen"/>ches, as Parochiall, Na<g ref="char:EOLhyphen"/>tionall, Provinciall or the like.</hi>
+               </p>
+               <p n="3">3.
+<note place="margin">Act. 16. p. 2. Rom. 16.4 Gal. 1.2.</note> 
+                  <hi>Every perſon ſo joyning himſelfe to that combination, is properly a member of that parti<g ref="char:EOLhyphen"/>cular viſible Church diſ<g ref="char:EOLhyphen"/>tinct from other Church<g ref="char:EOLhyphen"/>es.</hi>
+               </p>
+               <p>
+                  <pb n="22" facs="tcp:152971:19"/>
+From whence the maine buſineſſe, where<g ref="char:EOLhyphen"/>in the difficulty ſeemed higheſt, and cauſed the moſt violence, was in a third maine concluſion.</p>
+               <p n="3">3. <hi>The members of a Church, or a certaine number of Beleevers may further confaederat a<g ref="char:EOLhyphen"/>mongſt themſelves by a bond or covenant to a cloſe walking with Chriſt.</hi>
+               </p>
+               <p>
+                  <hi>And yet not breake fellowſhip or communion with the bodie, congre<g ref="char:EOLhyphen"/>gation, or particular par<g ref="char:EOLhyphen"/>riſh, or Church whereof they are members.</hi>
+               </p>
+               <p>This becauſe I ob<g ref="char:EOLhyphen"/>ſerved it offended both
+<pb n="23" facs="tcp:152971:19"/>ſides againſt my intenti<g ref="char:EOLhyphen"/>on to either, I did ex<g ref="char:EOLhyphen"/>plaine it and deliuer the ſame thus.</p>
+               <div n="1" type="section">
+                  <head>SECT. I.</head>
+                  <p>I Meane it thus, It is a lawfull, and in ſome ſenſe a neceſſary act for beleevers of acquain<g ref="char:EOLhyphen"/>tance, or relation to joyne in a compact or a<g ref="char:EOLhyphen"/>greement amongſt the<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>ſelves, by way of cove<g ref="char:EOLhyphen"/>nant to walke with Chriſt, and to build up each other, in a mutu<g ref="char:EOLhyphen"/>all communication of their experience and guifts in the way of Chriſt,
+<note place="margin">Heb. 3.13.</note> for mutuall con<g ref="char:EOLhyphen"/>ſolation
+<pb n="24" facs="tcp:152971:20"/>in the Goſ<g ref="char:EOLhyphen"/>pell.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>SECT 2.</head>
+                  <p>YET I added further to explaine my ſelf, that ſuch confaederacie, compact and agreement ſhould not cauſe them to <hi>ſeperate,</hi> or to breake fellowſhip with the whole congregation, (for indeed the whole congregation ſhould joyne) but hold a cor<g ref="char:EOLhyphen"/>reſpondency with the reſt in the publique or<g ref="char:EOLhyphen"/>dinances, in ſuch places as is appointed by au<g ref="char:EOLhyphen"/>thority; for ſuch aſſem<g ref="char:EOLhyphen"/>ble
+<pb n="25" facs="tcp:152971:20"/>that ſo they may walke in order and peaceableneſſe.</p>
+                  <p>The reaſon of this my aſſertion, was re<g ref="char:EOLhyphen"/>moving that which is the grand argument, which cauſed the <hi>ſepe<g ref="char:EOLhyphen"/>ration,</hi> and diviſion.</p>
+                  <p>A mixture of belee<g ref="char:EOLhyphen"/>vers and unbeleevers, (ſay they) in any or<g ref="char:EOLhyphen"/>dinance pollutes the ordinance.</p>
+                  <p>To this I then anſ<g ref="char:EOLhyphen"/>wered in ſum to the argument.</p>
+                  <p n="1">1 <hi>The vnfitneſſe of any perſon in an ordi<g ref="char:EOLhyphen"/>nance, doth not neceſſa<g ref="char:EOLhyphen"/>rily prejudice the ſame
+<pb n="26" facs="tcp:152971:21"/>ordinance to a beleever.</hi>
+                  </p>
+                  <p n="2">2. <hi>Nor doth it alto<g ref="char:EOLhyphen"/>gether detract the effe<g ref="char:EOLhyphen"/>ctuall preſence of Chriſt from beleevers.</hi>
+                  </p>
+                  <p>I meane thus, that for as much as that infalli<g ref="char:EOLhyphen"/>ble Spirit of diſcerning, doth not now abide in the Church: who is <hi>poſitively anunbeleever,</hi> that we may unreſer<g ref="char:EOLhyphen"/>vedly conclude ſuch a perſon, (though pro<g ref="char:EOLhyphen"/>feſſing with his mouth to beleeve) is yet in the truth and reality of things is <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> it doth not I ſay prejudice the ordinance to a belee<g ref="char:EOLhyphen"/>ver.</p>
+                  <p>
+                     <pb n="27" facs="tcp:152971:21"/>
+For indeed I grant, where there is ſuch an abſolute inſpection in<g ref="char:EOLhyphen"/>to, and unreſerved con<g ref="char:EOLhyphen"/>junction of the ſpirits of men, that we know their hearts &amp; frame of their Spirits, it were utterly unlawfull to hold fel<g ref="char:EOLhyphen"/>lowſhip with them that are unbeleevers.</p>
+                  <p>But now where no ſuch infallibility can be ſuppoſed (as is our caſe) I conceive the ordi<g ref="char:EOLhyphen"/>nance is not prejudiſed, for in the former caſe of manifeſt conviction we are partakers of other mens ſinnes, in this not. And I conceive the caſe
+<pb n="28" facs="tcp:152971:22"/>of <hi>Alexander Hymeneus</hi> and <hi>Philetus</hi>—cunn<g ref="char:EOLhyphen"/>ing <hi>Hypocrites</hi> in an A<g ref="char:EOLhyphen"/>poſtolicall Church,
+<note place="margin">2. <hi>Tim.</hi> 2.15.</note> did not diſband the congre<g ref="char:EOLhyphen"/>gation, nor did Chriſt deny his Church to them. So that however it be true that Chriſt walkes amongſt the Seven Golden Can<g ref="char:EOLhyphen"/>delſticks all of pure Gold; yet even in thoſe Churches there were Hereticall Doctrines, unbeleevers, yet the Church disbanded not: but a command was gi<g ref="char:EOLhyphen"/>ven to the Angell in the name of the Church for an ejection.</p>
+                  <p>
+                     <pb n="29" facs="tcp:152971:22"/>
+                     <hi>Once more for De<g ref="char:EOLhyphen"/>pendance upon the Con<g ref="char:EOLhyphen"/>gregation.</hi>
+                  </p>
+                  <p>I conceive thoſe Churches ſpoken of in ſeverall houſes, to be but members of ſome full and compleate con<g ref="char:EOLhyphen"/>gregation, or Church in <hi>Rome</hi> or elſe where.</p>
+                  <p>My reaſon I laied downe thus, foraſmuch as,</p>
+                  <p n="1">1. In ſo ſmall a com<g ref="char:EOLhyphen"/>pany as a family, all the ordinances of Chriſt could not have a full courſe which is eſſenti<g ref="char:EOLhyphen"/>all to a Church, in the very reſolution of <hi>Epiſ<g ref="char:EOLhyphen"/>copall, Preſbyteriall,</hi>
+                     <pb n="30" facs="tcp:152971:23"/>and <hi>Congregationall</hi> Churches.</p>
+                  <p n="2">2. Every officer could not have a compleate and entire place and power, to execute that authority, Chriſt had bequeathed to a Church.</p>
+                  <p>So that in iſſue I did conclude in this, from firſt to laſt in theſe two propoſitions.</p>
+                  <p n="1">1 <hi>Though one or more Families, or divers Per<g ref="char:EOLhyphen"/>ſons, may joyne in con<g ref="char:EOLhyphen"/>federacy to walke with Chriſt.</hi>
+                  </p>
+                  <p n="2">2. <hi>Yet their conjunction and fellowſhip with that congregation or Church, into which they are ad<g ref="char:EOLhyphen"/>mitted,
+<pb n="31" facs="tcp:152971:23"/>whether you'le call it parochiall or con<g ref="char:EOLhyphen"/>gregationall, ought to be inviolable, where the ordinances of Chriſt have cheerefull latitude of ex<g ref="char:EOLhyphen"/>tention.</hi>
+                  </p>
+                  <p>This was the ſumme of what was then de<g ref="char:EOLhyphen"/>livered in theſe things, in which I did under<g ref="char:EOLhyphen"/>ſtand the exception did ariſe on both ſides, and now let wiſemen judge.</p>
+                  <p>The third concluſion, in the deſmition being diſpatcht, the Fourth followed thus.</p>
+                  <p n="4">4.
+<note place="margin">
+                        <hi>Con.</hi> 4.</note> 
+                     <hi>The end of this confederacie of beleevers into a Church in giving
+<pb n="32" facs="tcp:152971:24"/>themſelves entirely up to Chriſt.</hi>
+                  </p>
+               </div>
+               <div n="1" type="section">
+                  <head>SECT 1.</head>
+                  <p>
+                     <hi>TO enjoye a ſpeciall and effectuall com<g ref="char:EOLhyphen"/>munion with Chriſt.</hi>
+                  </p>
+                  <p>For, for this pur<g ref="char:EOLhyphen"/>poſe they give them<g ref="char:EOLhyphen"/>ſelves up to him, and are joyned with him; now to what purpoſe is uni<g ref="char:EOLhyphen"/>on and fellowſhip, ex<g ref="char:EOLhyphen"/>cept it be for commu<g ref="char:EOLhyphen"/>nion and participation, ſee 1 <hi>Cor.</hi> 1.9.</p>
+                  <p>Now to this I added as a conſectary and iſſue.</p>
+               </div>
+               <div n="2" type="section">
+                  <pb n="33" facs="tcp:152971:24"/>
+                  <head>SECT. II.</head>
+                  <p>
+                     <hi>THis fellowſhip and Communion was alſo a ſpirituall and recipro<g ref="char:EOLhyphen"/>call communion with the members of the Church a<g ref="char:EOLhyphen"/>mongſt themſelves.</hi>
+                  </p>
+                  <p>The ground of this concluſion I told you was, becauſe, 1. they e<g ref="char:EOLhyphen"/>very one ſympathize in breathing as it were the ſame life of Chriſt, and 2. they have the ſame ſpirit of Chriſt: <hi>ergo</hi> ſpi<g ref="char:EOLhyphen"/>ritual communion, muſt be ſenſibly raiſed in their ſpirits, when each Act amongſt them is no<g ref="char:EOLhyphen"/>thing
+<pb n="34" facs="tcp:152971:25"/>but a beam of the ſame glory of CHRIST dwelling in them, <hi>Eſay</hi> 44.5. <hi>Acts</hi> 2.46.</p>
+                  <p>Now as a medium by which all the efficacy of this communion ſhould be poured out upon them, and enjoy an ef<g ref="char:EOLhyphen"/>fectuall and ſpecial ener<g ref="char:EOLhyphen"/>gy in Chriſts communi<g ref="char:EOLhyphen"/>on with them I laid downe.</p>
+                  <p n="3">3. <hi>This fellowſhip and Communion in its true ſpiritual vigour &amp; effica<g ref="char:EOLhyphen"/>cy with Chriſt, &amp; amongſt themſelves, is in the ex<g ref="char:EOLhyphen"/>erciſe, uſe, and power of his owne holy Ordinan<g ref="char:EOLhyphen"/>ces.</hi>
+                  </p>
+                  <p>
+                     <pb n="35" facs="tcp:152971:25"/>
+The reaſon is,
+<note place="margin">John 14.22. Cant. 1.7.8.</note> he in<g ref="char:EOLhyphen"/>tending thus to manifeſt himſelf to them, and not to the world, ſets out limits and bounds where he wil ſhew him<g ref="char:EOLhyphen"/>ſelfe, <hi>Iſa.</hi> 56.7. <hi>Acts</hi> 9.31. <hi>Iſa</hi> 25.6.</p>
+                  <p>And thus was that fourth concluſion fini<g ref="char:EOLhyphen"/>ſhed, and with it the work of that time. Ther was yet a fifth concluſi<g ref="char:EOLhyphen"/>on in this deſcription of a Church, which I did omit for want of time, only naming of it, and reſerving its proſecu<g ref="char:EOLhyphen"/>tion for this occaſion. But being prevented, &amp; loving my own peace, I
+<pb n="36" facs="tcp:152971:26"/>ſhall only name it again.</p>
+                  <p n="5">5. <hi>This communion that a Church enjoyeth with Chriſt and Belee<g ref="char:EOLhyphen"/>vers amongſt themſelves in his Ordinances,</hi>
+                  </p>
+                  <p>
+                     <hi>Is maintained by aſ<g ref="char:EOLhyphen"/>ſembling themſelves to<g ref="char:EOLhyphen"/>gether to communicate in ſuch ordinances, as Chriſt will ſhew his glory upon them,</hi> 1 Cor. 14.23. <hi>&amp;</hi> 16.1.2. <hi>Art. Ch. En.</hi> 19.</p>
+                  <p>And ſee now how it fel out, in this very point reſts all the difficulty, as it muſt bee explained, which in the generall is confeſt as true on all hands, yet what my par<g ref="char:EOLhyphen"/>ticular
+<pb n="37" facs="tcp:152971:26"/>thoughts and judgement was, I ne<g ref="char:EOLhyphen"/>ver yet ſpake word, yet theſe men on both ſides would needes tell mee what I would ſay, when in truth I knew not ful<g ref="char:EOLhyphen"/>ly my ſelfe. Yet Bre<g ref="char:EOLhyphen"/>thren for quietneſſe and peace ſake, I'le lay down ſome things in generall, waving difficulties, that you may gheſſe which way my thoughts tend.</p>
+                  <p n="1">1. <hi>All Beleevers and every member ought to frequent and aſſemble to that place which is ap<g ref="char:EOLhyphen"/>pointed for the meeting of the congregation in the uſe of Divine Ordinauces publiquely.</hi>
+                  </p>
+                  <p>
+                     <pb n="38" facs="tcp:152971:27"/>
+This only I name as confeſt on all hands, and therefore in the next place,</p>
+                  <p n="2">2. <hi>Every family of Be<g ref="char:EOLhyphen"/>leevers ought after pub<g ref="char:EOLhyphen"/>like ordinances in the Church or congregation, to aſſemble together for recognition, conference, mutual aſſiſtance in what hath been publikely done, and the uſe of ſuch Ordi<g ref="char:EOLhyphen"/>nances as are proper to them.</hi>
+                  </p>
+                  <p>Theſe two propoſiti<g ref="char:EOLhyphen"/>ons, no man I know, if taken in this generall ſenſe ſo much as ſtickes at. Onely if I ſhould adde one glance more, it
+<pb n="39" facs="tcp:152971:27"/>may be it would ſtartle: yet I hope not offend, eſpecially if taken as 'tis intended by mee, I'le venture upon good na<g ref="char:EOLhyphen"/>tures, and lay it downe in ſum thus.</p>
+                  <p>
+                     <hi>Many grand ſticklers and contenders for an u<g ref="char:EOLhyphen"/>niverſall outward con<g ref="char:EOLhyphen"/>formity (which I ſhal for ever ſupplicate the throne of grace for us, comming neareſt to a ſtate of glory) Are the moſt peccant and defective in the main bu<g ref="char:EOLhyphen"/>ſineſſe, to wit ſenſible &amp; quickening communion with Chriſt, which is the maine end of thoſe Ordi<g ref="char:EOLhyphen"/>nances, and the Saints or
+<pb n="40" facs="tcp:152971:28"/>Beleevers generall con<g ref="char:EOLhyphen"/>formity to them.</hi>
+                  </p>
+                  <p>Brethren, I would de<g ref="char:EOLhyphen"/>mand from theſe eager ſpirits, whether it hath not been the practice of this and former ages to terminate their devoti<g ref="char:EOLhyphen"/>on in a circular courſe of comming to Church — reading or hearing a chapter with the Mini<g ref="char:EOLhyphen"/>ſter, turning downe leaves at Chapter and verſe—things I know good and ought to bee done; yet when 'tis ma<g ref="char:EOLhyphen"/>nifeſtly apparant this terminates all, and they look no further but on<g ref="char:EOLhyphen"/>ly to the exerciſe of the
+<pb n="41" facs="tcp:152971:28"/>body, which profits not, nor ſee any thing of the power of Chriſt ſhining out in ſtrength in their Ordinances, I would demand whether</p>
+                  <p n="1">1. <hi>Theſe things are not uſeleſſe in our relation to Chriſt in them.</hi>
+                  </p>
+                  <p n="2">2. <hi>This be not to pro<g ref="char:EOLhyphen"/>fane &amp; pollute that, which he hath ordained to com<g ref="char:EOLhyphen"/>municate and ſhew him<g ref="char:EOLhyphen"/>ſelfe by to his people?</hi>
+                  </p>
+                  <p n="3">3. <hi>Condemnation will not be advanced hereby?</hi>
+                  </p>
+                  <p>Brethren, theſe things I only propoſe without reflexion upo<g ref="char:cmbAbbrStroke">̄</g> any mans particular, let his owne conſcience judge.</p>
+                  <p>
+                     <pb n="42" facs="tcp:152971:29"/>
+                     <hi>Whether this method had not in the dayes of yore eaten out the power of godlineſſe, and left the body of religion an empty carkaſſe.</hi>
+                  </p>
+                  <p>But I doe but name this doubt <hi>obiter,</hi> and by the bye. I muſt yet crave leave &amp; a little patience to inſert a third conclu<g ref="char:EOLhyphen"/>ſion in this buſineſſe of aſſembling or meeting, leaſt I ſhould be accuſed of bauking or diſſem<g ref="char:EOLhyphen"/>bling the maine. For I expect to heare of it on both ſides the head, take it thus:</p>
+                  <p n="3">3. <hi>It is lawfull for Chriſtians or Believers
+<pb n="43" facs="tcp:152971:29"/>of ſeverall families in a Towne, Pariſh, or Coun<g ref="char:EOLhyphen"/>trey, to meete together to conferre and examine truths delivered, to com<g ref="char:EOLhyphen"/>municate each others ex<g ref="char:EOLhyphen"/>perience for mutual con<g ref="char:EOLhyphen"/>ſolation and edification in the way of Chriſt.</hi>
+                  </p>
+                  <p>This Brethren I would have rightly un<g ref="char:EOLhyphen"/>derſtood, and that wil prevent a carping, take then theſe two cautions in.</p>
+                  <p n="1">1. <hi>Such aſſembling or meeting ought not to prejudice the publike Ordinance and Aſſem<g ref="char:EOLhyphen"/>bies.</hi>
+                  </p>
+                  <p n="2">2. <hi>Such aſſembling or
+<pb n="44" facs="tcp:152971:30"/>meeting ought not to di<g ref="char:EOLhyphen"/>ſturb or violate the peace or quiet of the State or Kingdome.</hi>
+                  </p>
+                  <p>Theſe two cautions obſerved, I'le juſtifie the concluſion to bee warrantable. It is an expreſſe injunction of the Apoſtle, and no<g ref="char:EOLhyphen"/>thing can come in for a ſuperſedeas where hee commands.</p>
+                  <p>Thus I have declared briefly to you as well as I could, the nature of a Church under the Goſ<g ref="char:EOLhyphen"/>pell. What it is in the ſenſe of other men, ei<g ref="char:EOLhyphen"/>ther for the place of meeting, or in that re<g ref="char:EOLhyphen"/>lation
+<pb n="45" facs="tcp:152971:30"/>it ſtands to the Kingdome or Nation as protected, and in ſome caſes bound by Lawes and Edicts, I have not medled, as leaving it to the Lawyers and Magi<g ref="char:EOLhyphen"/>ſtrates to determine; my errand was never ſo far as I know to preach pe<g ref="char:EOLhyphen"/>nall Statutes, but obe<g ref="char:EOLhyphen"/>dience to the KING and other his ſubordi<g ref="char:EOLhyphen"/>nate Governours, which I ſhall ever bee diligent in both in word and practice. What I have done amiſſe herein, I ſhall ſubmit to cenſure and errour I ſhall bee
+<pb n="44" facs="tcp:152971:31"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="45" facs="tcp:152971:31"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="46" facs="tcp:152971:32"/>convict of. Thus farre may ſuffice for the na<g ref="char:EOLhyphen"/>ture of a true Church.</p>
+                  <p>The next thing I did propoſe to my ſelf in the buſineſſe of a Church, is</p>
+               </div>
+               <div n="2" type="section">
+                  <head>SECT. 2.</head>
+                  <p>
+                     <hi>THe Priviledges of Be<g ref="char:EOLhyphen"/>leevers mett in the way of a Church or Con<g ref="char:EOLhyphen"/>gregation in the uſe of the Ordinances of Chriſt.</hi>
+                  </p>
+                  <p>And theſe I did re<g ref="char:EOLhyphen"/>ſolve to reduce in di<g ref="char:EOLhyphen"/>ſtinct concluſions in theſe few heads.</p>
+               </div>
+               <div n="1" type="section">
+                  <pb n="47" facs="tcp:152971:32"/>
+                  <head>SECT. 1. <hi>generall.</hi>
+                  </head>
+                  <p>
+                     <hi>THe great Priviledge of Beleevers joyned in fellowſhip in the Goſ<g ref="char:EOLhyphen"/>pell, and met together in the uſe of any Divine Ordinances, is</hi>
+                  </p>
+                  <p>
+                     <hi>To have an intimate, tender, and prevailing effectuall preſence of Chriſt himſelfe with them.</hi>
+                  </p>
+                  <p>This both Scripture and reaſon abundantly teſtifie, for Chriſt being a living head, and ap<g ref="char:EOLhyphen"/>pointing his Church to be his body, it muſt fol<g ref="char:EOLhyphen"/>low, the body muſt find
+<pb n="48" facs="tcp:152971:33"/>the influence from the head in every channell and veſſell ordained for that purpoſe, <hi>Matth.</hi> 28.19, 20.</p>
+                  <p>Thus much in gene<g ref="char:EOLhyphen"/>rall, now again in</p>
+               </div>
+               <div n="2" type="section">
+                  <head>SECT. 2. <hi>Speciall.</hi>
+                  </head>
+                  <p>AS ſeverall branches ariſing from this common ſtocke, they are to bee reduced to a two-fold head.</p>
+               </div>
+               <div n="1" type="section">
+                  <head>SECT. 1. <hi>Internal.</hi>
+                  </head>
+                  <p>ANnd theſe againe admit a diſtinction.</p>
+                  <div n="1" type="subsection">
+                     <pb n="45" facs="tcp:152971:33"/>
+                     <head>1. <hi>Generall.</hi>
+                     </head>
+                     <p>
+                        <hi>A conſtant quickning influence and power of ſpirituall refreſhing from this preſence of Chriſt.</hi>
+                     </p>
+                     <p>This is cleare in the former demonſtration, and made mention in former places of Scrip<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ure.</p>
+                  </div>
+                  <div n="2" type="subsection">
+                     <head>SECT. 2. <hi>Speciall.</hi>
+                     </head>
+                     <p>ANd that again ſhold be diſpatcht in theſe things.</p>
+                     <p n="1">1. <hi>A ſenſible &amp; active ſpirituall taſte of Divine love, or of God himſelfe
+<pb n="46" facs="tcp:152971:34"/>in his Ordinances by this preſence of Chriſt.</hi>
+                     </p>
+                     <p>For by this comming to him wee come to and ſee the Father by him. And hence alſo followes in the uſe of the Ordi<g ref="char:EOLhyphen"/>nances by this preſence of Chriſt theſe three things.</p>
+                     <p n="1">1. <hi>Peace with, and ſpirituall joy in God.</hi>
+                     </p>
+                     <p n="2">2. <hi>A ſtrength commu<g ref="char:EOLhyphen"/>nicated to walke with Chriſt, and in his power with God.</hi>
+                     </p>
+                     <p n="3">3. <hi>A ſealed aſſurance of eternall communion with God in glory.</hi>
+                     </p>
+                     <p>Theſe are thoſe in<g ref="char:EOLhyphen"/>ternall Priviledges of
+<pb n="47" facs="tcp:152971:34"/>the Church to be pow<g ref="char:EOLhyphen"/>red out and communi<g ref="char:EOLhyphen"/>cated to the Saints in their aſſembling in the uſe of divine ordinan<g ref="char:EOLhyphen"/>ces.</p>
+                  </div>
+               </div>
+               <div n="2" type="section">
+                  <head>SECT. 2. <hi>Externall Priviledges.</hi>
+                  </head>
+                  <p>ANd theſe I ſhould refer to theſe three concluſions;</p>
+                  <p n="1">1. <hi>A free uſe of all the Ordinances of Chriſt be<g ref="char:EOLhyphen"/>longs to the church.</hi>
+                  </p>
+                  <p n="2">2. <hi>A power of eſtabli<g ref="char:EOLhyphen"/>ſhing of Officers for the governement of the Church.</hi>
+                  </p>
+                  <p n="3">3. <hi>A power of exerci<g ref="char:EOLhyphen"/>ſing
+<pb n="48" facs="tcp:152971:35"/>of all cenſures, or the power of the Keyes for the matter of Diſci<g ref="char:EOLhyphen"/>pline.</hi>
+                  </p>
+                  <p>Whence I would (had I proſecuted) infer red one thing as a moſt neceſſary corollary.</p>
+                  <p>
+                     <hi>All theſe Priviledges are made truly efficacious and effectuall by the pre<g ref="char:EOLhyphen"/>vailing and actuall pre<g ref="char:EOLhyphen"/>ſence of</hi> CHRIST <hi>with them.</hi>
+                  </p>
+                  <p>One thing more I ad<g ref="char:EOLhyphen"/>ded to be heeded,
+<note place="margin">Cautions.</note> to wit thus,</p>
+                  <p n="1">1. <hi>Whether you'le call a Church thus inveſted with theſe great privi<g ref="char:EOLhyphen"/>ledges made efficacious
+<pb n="49" facs="tcp:152971:35"/>by Chriſts reall preſence to be,</hi>
+                  </p>
+                  <p>
+                     <hi>A Church.</hi>
+                     <list>
+                        <item>1. Nationall.</item>
+                        <item>2. Provincial.</item>
+                        <item>3. Claſſicall.</item>
+                        <item>4. Parochiall.</item>
+                        <item>5. Independe<g ref="char:cmbAbbrStroke">̄</g>t or Congrega<g ref="char:EOLhyphen"/>tionall.</item>
+                     </list>
+                  </p>
+                  <p>Let others diſpute the queſtion, I will not: I conceive all are.</p>
+                  <p n="2">2. <hi>Whether the go<g ref="char:EOLhyphen"/>vernment bee inveſted in an Epiſcopacy, Claſſicall, Parochiall, or Congrega<g ref="char:EOLhyphen"/>tional Elderſhip from the donation of the Church, for 'tis her inheritance, I will not determine, let the King &amp; State deter<g ref="char:EOLhyphen"/>mine.</hi>
+                  </p>
+                  <p>
+                     <pb n="50" facs="tcp:152971:36"/>
+I can with peace ſub<g ref="char:EOLhyphen"/>mit ſo farre as my con<g ref="char:EOLhyphen"/>ſcience yet beares mee witneſs, &amp; will ſo ſoone as the hand is put to ex<g ref="char:EOLhyphen"/>ecution.</p>
+                  <p>
+                     <hi>The other two points of the uſe of the</hi> 1. <hi>Law.</hi>
+                  </p>
+                  <p n="2">2. <hi>Baptiſme I touched not,</hi>
+                  </p>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:152971:36"/>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
